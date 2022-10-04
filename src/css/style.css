@@ -21,3 +21,9 @@ nav > ul {
     gap: 1rem;
     padding: 0;
 }
+
+picture > img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
